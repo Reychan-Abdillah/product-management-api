@@ -120,6 +120,7 @@ The API server will start on the port configured in the project.
 | GET | `/products/:id` | Retrieve a product by ID |
 | POST | `/products` | Create a new product |
 | PUT | `/products/:id` | Update an existing product |
+| DELETE | `/products/` | Delete all product |
 | DELETE | `/products/:id` | Delete a product |
 
 ## Database
